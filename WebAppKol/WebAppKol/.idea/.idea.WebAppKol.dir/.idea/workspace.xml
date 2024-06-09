@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d1b87ed-604c-4ce8-8a21-7a50e832d7c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Config/AlbumConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/MuzykConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/UtworConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/WytworniaConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Album.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/KolDbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Muzyk.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Utwor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Wytwornia.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppKol.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebAppKol.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2heaHoVDKfvNmXyc2h7t5TMvh4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d1b87ed-604c-4ce8-8a21-7a50e832d7c6" name="Changes" comment="" />
+      <created>1717956911964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717956911964</updated>
+      <workItem from="1717956913083" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
