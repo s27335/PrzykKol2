@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppKol", "WebAppKol\WebAppKol.csproj", "{9FB85AB1-127F-4033-925C-68A9F2DC8AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB85AB1-127F-4033-925C-68A9F2DC8AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB85AB1-127F-4033-925C-68A9F2DC8AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB85AB1-127F-4033-925C-68A9F2DC8AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB85AB1-127F-4033-925C-68A9F2DC8AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
